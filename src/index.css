@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background-color: cyan;
+  background-color: greenyellow;
   margin: auto -16px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
@@ -107,7 +107,7 @@ footer p {
 .delete-button {
   position: relative;
   float: right;
-  background-color: midnightblue;
+  background-color: green;
   margin: 20px 20px 20px 20px;
   padding: 12px 55px 25px 10px;
   box-shadow: 0 2px 5px #ccc;
